@@ -3,10 +3,13 @@ h1{
 }
 li{
     display: inline-block;
-    width: 10%;
+    width: 20%;
     background: grey;
     color: white;
 }
 li:hover{
     background: cyan;
+}
+p{
+    width: 20%;
 }
