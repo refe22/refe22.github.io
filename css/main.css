@@ -1,11 +1,14 @@
 h1{
     text-align: center;
 }
+h2{
+    text-align: center;
+}
 li{
     display: inline-block;
     width: 20%;
-    background: lightgrey;
-    color: white;
+    background: white;
+    color:black;
 }
 li:hover{
     background: cyan;
