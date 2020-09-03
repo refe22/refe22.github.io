@@ -4,13 +4,13 @@ h1{
 h2{
     text-align: center;
 }
-li{
+li.menu{
     display: inline-block;
     width: 20%;
     background: white;
     color:black;
 }
-li:hover{
+li.menu:hover{
     background: cyan;
 }
 body{
@@ -20,6 +20,6 @@ body{
 p{
     width: 85%;
 }
-p.menu{
+p.menu1{
     text-align: left;
 }
