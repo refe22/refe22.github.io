@@ -14,8 +14,12 @@ li:hover{
     background: cyan;
 }
 body{
-    background:tan;
+    background:navy;
+    color: white;
 }
 p{
     width: 80%;
+}
+p.subtitle{
+    text-align:center;
 }
