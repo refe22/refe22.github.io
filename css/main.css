@@ -17,9 +17,16 @@ body{
     background:gainsboro;
     color: white;
 }
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
 p{
     width: 85%;
 }
 p.menu1{
     text-align: left;
+}
+div.journey{
+    background: lightgoldenrodyellow;
 }
