@@ -23,6 +23,7 @@ body{
     width: 86%;
 }
 
+
 aside {
     width: 30%;
     padding-left: 15px;
@@ -31,9 +32,12 @@ aside {
     font-style: italic;
     background-color: burlywood;
 }
-.journey div{
+div.journey {
     padding-left: 15px;
     margin-left: 15px;
     float: right;
     background-color:whitesmoke;
+}
+body.mainpage{
+    text-align:center;
 }
