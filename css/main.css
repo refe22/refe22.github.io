@@ -4,6 +4,7 @@ h1{
 h2.big{
     color:rgb(37, 14, 14);
 }
+
 li.menu{
     display: inline-block;
     width: 20%;
@@ -13,20 +14,14 @@ li.menu{
 li.menu:hover{
     background: cyan;
 }
+
+
 body{
     background:gainsboro;
     color:black;
-}
-@media only screen and (max-width: 600px) {
-    body {
-      background-color: lightblue;
-    }
-p{
     width: 70%;
 }
-p.menu1{
-    text-align: left;
-}
+
 div.journey{
     background:whitesmoke;
 }
