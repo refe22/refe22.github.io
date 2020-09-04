@@ -15,18 +15,18 @@ li.menu:hover{
 }
 body{
     background:gainsboro;
-    color: white;
+    color:black;
 }
 @media only screen and (max-width: 600px) {
     body {
       background-color: lightblue;
     }
 p{
-    width: 85%;
+    width: 70%;
 }
 p.menu1{
     text-align: left;
 }
 div.journey{
-    background: lightgoldenrodyellow;
+    background:whitesmoke;
 }
