@@ -21,7 +21,6 @@ body{
     background:whitesmoke;
     color:black;
     width: 86%;
-    text-align:center;
 }
 
 aside {
@@ -31,4 +30,10 @@ aside {
     float: right;
     font-style: italic;
     background-color: burlywood;
+}
+.journey div{
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    background-color:whitesmoke;
 }
