@@ -15,11 +15,12 @@ li.menu{
 li.menu:hover{
     background: cyan;
 }
-
+body.mainpage{
+    text-align: center;
+}
 body{
     color: white;
     width: 90%;
-    text-align: center;
     background-color:lightslategrey;
 }
   
