@@ -30,7 +30,7 @@ div.aside{
     margin-left: 15px;
     float: right;
     font-style: italic;
-    background-color: rgb(228, 222, 146);
+    background-color: rgb(233, 230, 187);
 }
 
 div.links{
@@ -39,20 +39,19 @@ div.links{
 div.style1{
     padding-left: 20px;
     margin-left: 20px;
-    background-color:rgb(113, 220, 236);
+    background-color:rgb(207, 235, 240);
 }
 div.style2 {
     padding-left: 20px;
     margin-left: 20px;
-    background-color:rgb(125, 211, 161);
+    background-color:rgb(175, 196, 184);
 }
 div.style3{
     padding-left: 20px;
     margin-left: 20px;
-    background-color:rgb(96, 72, 104);
+    background-color:rgb(123, 115, 126);
 }
 
 span.style1 {
   color: rgb(250, 246, 246);  
 }
-
