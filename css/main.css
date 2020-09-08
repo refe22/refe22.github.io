@@ -24,7 +24,7 @@ body{
 }
 
 
-div.aside {
+div.aside{
     width: 30%;
     padding-left: 15px;
     margin-left: 15px;
@@ -32,12 +32,7 @@ div.aside {
     font-style: italic;
     background-color: burlywood;
 }
-div.journey {
-    padding-left: 15px;
-    margin-left: 15px;
-    float: right;
-    background-color:whitesmoke;
-}
+
 body.mainpage{
     text-align:center;
 }
