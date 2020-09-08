@@ -19,7 +19,7 @@ li.menu:hover{
 
 body{
     background:whitesmoke;
-    color: white;
+    color: black;
     width: 90%;
 }
 
@@ -56,6 +56,6 @@ div.style3{
 }
 
 span.style1 {
-  color: rgb(31, 3, 3);  
+  color: rgb(82, 60, 60);  
 }
 
