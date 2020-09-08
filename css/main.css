@@ -20,12 +20,12 @@ body{
     color: white;
     width: 90%;
     text-align: center;
-    background-color:black;
+    background-color:lightslategrey;
 }
   
-  @media only screen and (max-width: 1000px) {
+  @media only screen and (max-width: 1400px) {
     body {
-      background-color: lightslategrey;
+      background-color:rgb(218, 181, 89);
     }
 
 div.aside{
