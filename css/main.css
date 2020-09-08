@@ -10,7 +10,7 @@ li.menu{
     display: inline-block;
     width: 20%;
     background:lightgrey;
-    color:black;
+    color: white;
 }
 li.menu:hover{
     background: cyan;
