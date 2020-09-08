@@ -9,22 +9,19 @@ h2.big{
 li.menu{
     display: inline-block;
     width: 20%;
-    background:black;
-    color:whitesmoke;
+    background:white;
+    color:black;
 }
 li.menu:hover{
     background: cyan;
 }
 
 body{
-    background:whitesmoke;
-    color: black;
+    color: white;
     width: 90%;
     text-align: center;
-}
-body {
     background-color:black;
-  }
+}
   
   @media only screen and (max-width: 1000px) {
     body {
