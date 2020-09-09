@@ -21,7 +21,7 @@ body.mainpage{
 body{
     color: white;
     width: 90%;
-    background-color:lightslategrey;
+    background-color:rgb(199, 208, 216);
 }
   
   @media only screen and (max-width: 1200px) {
