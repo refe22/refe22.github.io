@@ -27,7 +27,7 @@ body{
     background-color:rgb(199, 208, 216);
 }
   
-  @media only screen and (max-width: 1200px) {
+  @media only screen and (max-width: 1000px) {
     body {
       background-color:rgb(219, 201, 155);
     }
