@@ -12,6 +12,9 @@ li.menu{
     background:white;
     color:black;
 }
+a{
+    color:black;
+}
 li.menu:hover{
     background: cyan;
 }
